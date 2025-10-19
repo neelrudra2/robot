@@ -49,5 +49,3 @@ The system runs entirely in software — **no hardware required** — and visual
 | **Libraries** | Matplotlib, NumPy, Dataclasses |
 | **Algorithms** | A\* Pathfinding, Dynamic Task Allocation |
 | **Concepts** | Multi-Agent Coordination, Route Optimization, Collision Avoidance |
-git clone https://github.com/<your-username>/multi-robot-warehouse-simulator.git
-cd multi-robot-warehouse-simulator
