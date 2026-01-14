@@ -38,21 +38,6 @@ The simulation emphasizes **algorithmic efficiency and coordination**, rather th
 
 ---
 
-## 🖼️ Simulation Visuals
-
-<p align="center">
-  <img src="assets/warehouse-grid.png" width="45%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/robot-paths.png" width="45%">
-</p>
-
-<p align="center">
-  <b>Left:</b> Grid-Based Warehouse Environment &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>Right:</b> Robot Paths with A* Planning
-</p>
-
----
-
 ## ⚙️ Core Concepts Implemented
 
 | Concept | Description |
@@ -124,7 +109,7 @@ This guarantees **deadlock-free and collision-free movement**.
    ```bash
    python simulator.py
    ```
-4. Observe real-time robot movement and task execution
+5. Observe real-time robot movement and task execution
 
 ---
 
