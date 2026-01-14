@@ -89,7 +89,7 @@ This guarantees **deadlock-free and collision-free movement**.
 ## 🎥 Live Simulation Output
 
 <p align="center">
-  <img src="simulation.gif" width="70%">
+  <img src="output_simulation.gif" width="70%">
 </p>
 
 <p align="center">
