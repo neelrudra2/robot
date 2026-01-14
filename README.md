@@ -15,8 +15,7 @@
 
 ## 🚀 Project Motivation
 
-Modern warehouses rely on **multiple autonomous robots** to efficiently move goods while avoiding congestion and collisions.  
-This project simulates a **multi-robot warehouse environment**, focusing on **dynamic task allocation**, **optimal path planning**, and **real-time re-planning** under shared-space constraints.
+Modern warehouses rely on **multiple autonomous robots** to efficiently move goods while avoiding congestion and collisions. This project simulates a **multi-robot warehouse environment**, focusing on **dynamic task allocation**, **optimal path planning**, and **real-time re-planning** under shared-space constraints.
 
 ---
 
