@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Multi-Robot Warehouse Automation Simulator</h1>
+<h1 align="center">Multi-Robot Warehouse Automation Simulator</h1>
 
 <p align="center">
   <i>A Python-based simulation of autonomous warehouse robots performing dynamic task allocation, path planning, and collision-free navigation.</i>
