@@ -89,12 +89,13 @@ This guarantees **deadlock-free and collision-free movement**.
 ## 🎥 Live Simulation Output
 
 <p align="center">
-  <img src="assets/live-simulation.png" width="70%">
+  <img src="simulation.gif" width="70%">
 </p>
 
 <p align="center">
-  <b>Animated visualization of robots picking up and delivering parcels in real time</b>
+  <i>Preview of multiple robots performing parcel pickup, delivery, and collision-free navigation</i>
 </p>
+
 
 ---
 
