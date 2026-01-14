@@ -1,6 +1,3 @@
-# Fixed version of warehouse_sim_clear.py
-# Adds replanning when a robot in TO_PICKUP / TO_DEST has no path.
-
 import random
 import heapq
 import matplotlib.pyplot as plt
@@ -277,3 +274,4 @@ def update(frame):
 
 ani = animation.FuncAnimation(fig, update, frames=MAX_STEPS, init_func=init, interval=300, blit=True)
 plt.show()
+
